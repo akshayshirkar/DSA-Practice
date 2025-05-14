@@ -8,6 +8,7 @@ public class Client {
 //        LargetNumberRef.findLargestNumber();
 
 //        findTheSecondLargestAndSmallest.findLargestAndSmallest();
-        checkIfTheArrayIsSorted.isSorted();
+//        checkIfTheArrayIsSorted.isSorted();
+        linierSearch.search();
     }
 }
